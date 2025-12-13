@@ -1,1 +1,1 @@
-https://github.com/zinazabudkina/zakrivayuschiy-teg-f/tree/main
+https://zinazabudkina.github.io/zakrivayuschiy-teg-f/
