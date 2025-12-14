@@ -19,7 +19,7 @@
   }
 }
 
-@keyframes sparks {
+@keyframes fadeIn {
   from {
     opacity: 0;
   }
