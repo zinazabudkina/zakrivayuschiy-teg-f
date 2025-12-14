@@ -84,7 +84,7 @@
   font-size: 18px;
   line-height: 21px;
   letter-spacing: 0;
-  font-variation-settings: "wght" 715;
+  font-variation-settings: "wght" var(--header-card-wght, 715);
 }
 
 .card-image {
@@ -167,7 +167,7 @@
   font-size: 18px;
   line-height: 21px;
   letter-spacing: 0;
-  font-variation-settings: "wght" 410;
+  font-variation-settings: "wght" var(--text-card-wght, 410);
 }
 
 .card-buttons {
